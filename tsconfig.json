@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../vaccine-graphql/server.js", "../vaccine-graphql/model", "../vaccine-graphql/db"  ]
 }
